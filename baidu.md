@@ -81,3 +81,7 @@ b'Hello, TensorFlow!'
 首先在tensorflow中文社区上下载MINST训练集数据，需要登陆google一开始不知为什么，gmail号被封了，申请恢复。
 后来账号还是没有恢复，我通过其他渠道下载了数据。
 按照网上指导代码在python中使用tensorflow实现了对数据集的分类。
+
+
+
+2021.6.2 github desktop
